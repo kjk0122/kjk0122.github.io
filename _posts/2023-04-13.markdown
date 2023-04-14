@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "4월 12일차 TIL"
-date:   2023-04-12 17:40:34 +0900
+title:  "4월 13일차 TIL"
+date:   2023-04-13 17:40:34 +0900
 categories: jekyll update
 ---
 
