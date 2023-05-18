@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "5월 18일차 TIL"
+date:   2023-05-18 15:00:00 +0900
+categories: jekyll update
+---
+
+오늘자
+
+Web Server vs WAS(Web Application Server)
+
+Web Server는 주로 정적인 콘텐츠를 제공하는 데 사용된다.(Apache HTTP Server, Nginx 등)
+HTML 문서, 이미지, CSS, JavaScript 등의 파일을 클라이언트(보통 웹 브라우저)로 전송하는 역할을 하며, 사용자의 요청을 받아 해당하는 파일을 찾아 전송하는 것이 주요 기능이다.
+
+반면 WAS(Web Application Server)는 동적인 콘텐츠를 생성하고 제공하는 데에 중점을 둔다.
+클라이언트의 요청에 따라 서버 측 스크립트를 실행하여 동적인 웹 페이지를 생성하고, 이를 클라이언트에게 전달한다.
+WAS는 데이터베이스 연동이 필요할 때 (로그인, 데이터 조회, 데이터 업데이트 등의 작업을 수행 같은 것) 유용하다.
