@@ -15,3 +15,5 @@ HTML 문서, 이미지, CSS, JavaScript 등의 파일을 클라이언트(보통 
 반면 WAS(Web Application Server)는 동적인 콘텐츠를 생성하고 제공하는 데에 중점을 둔다.
 클라이언트의 요청에 따라 서버 측 스크립트를 실행하여 동적인 웹 페이지를 생성하고, 이를 클라이언트에게 전달한다.
 WAS는 데이터베이스 연동이 필요할 때 (로그인, 데이터 조회, 데이터 업데이트 등의 작업을 수행 같은 것) 유용하다.
+
+<img src="https://velog.velcdn.com/images%2Fbky373%2Fpost%2F51ed2ed0-5711-4f9f-94e6-74ac9f1d1050%2Fimage.png">
