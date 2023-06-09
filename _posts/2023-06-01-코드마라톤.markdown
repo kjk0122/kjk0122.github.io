@@ -4,3 +4,7 @@ title:  "해왔던 프로그래밍 코드 마라톤"
 date:   2023-06-07 17:00:00 +0900
 categories: jekyll update
 ---
+윤년 구하기 다시 완료
+(이전에는 for문과 switch까지 넣었다면 지금은 그냥 깔끔하게 for문으로만 넣었다;;)
+
+<img src="https://file.notion.so/f/s/654ae2de-e699-4b15-85f1-171e566428a4/Untitled.png?id=82491d2d-ad58-4c7f-868b-4fa0d514bafb&table=block&spaceId=1c944271-6073-4a3a-810c-c28369cda247&expirationTimestamp=1686407565490&signature=uzx4LKCVOQl50vZZkqiWKwpbarMiDCviiZxzVKbmqJA&downloadName=Untitled.png">
