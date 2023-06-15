@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "챗GPT한테 문제를 내달라 했다"
+date:   2023-06-15 16:50:00 +0900
+categories: jekyll update
+---
+이전 마라톤에서 푼 문제를 풀다가, Stringbuilder를 사용하여 좀 더 간편하고 빠르게 사용하는 것을 반추했다.
+
