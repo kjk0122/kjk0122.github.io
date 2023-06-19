@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "오늘 한 일"
+date:   2023-06-19 12:27:00 +0900
+categories: jekyll update
+---
+String 관련 분리할때 split 까먹지 말자...
+
+import java.util.Arrays;
+String[] words = input.split(" ");
