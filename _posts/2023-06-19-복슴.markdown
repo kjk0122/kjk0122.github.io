@@ -8,3 +8,6 @@ String 관련 분리할때 split 까먹지 말자...
 
 import java.util.Arrays;
 String[] words = input.split(" ");
+
+그리고 replace 문구는 ""로
+input=input.replaceAll(" ","");
