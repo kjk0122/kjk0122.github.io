@@ -11,3 +11,7 @@ String[] words = input.split(" ");
 
 그리고 replace 문구는 ""로
 input=input.replaceAll(" ","");
+
+6/22
+따로 공부하느라;; 아무것도 못하긴 했다;;
+내일은 반드시 중복 관련 문제 풀고 말리라...ㅠㅠ
