@@ -28,3 +28,12 @@ for (int num : nums) {
 //(int num=0;num<nums.length;num++) 이것을 매우 짧게 줄여준다.
 }
 ```
+
+``` 정규식 꼭 기억할거야~~!! ㅠㅠㅠ
+
+    public static String removeComments(String code) {
+        return code.replaceAll("//.*|/\\*(.|\\R)*?\\*/", ""); // 정규식 이용하여 주석 제거하는 메소드
+    }
+
+
+```
