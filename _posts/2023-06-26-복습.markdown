@@ -20,5 +20,11 @@ Set<Integer> set = new HashSet<>();
         return result;
     }
 ```
+>잊을까봐 리마인드로 다시 쓰는 향상된 for문 예시
 
-
+```
+         int[] nums = {1, 2, 2, 3, 4, 4, 5}; //배열을 예시로
+for (int num : nums) {
+//(int num=0;num<nums.length;num++) 이것을 매우 짧게 줄여준다.
+}
+```
