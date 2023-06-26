@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "오늘 한 일"
+date:   2023-06-26 12:27:00 +0900
+categories: jekyll update
+---
+
+>List 형태 메소드 작성하기(예시)
+```
+public static List<Integer> findDuplicates(int[] nums) {
+List<Integer> result = new ArrayList<>();
+Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            if (set.contains(num)) {
+                result.add(num);
+            } else {
+                set.add(num);
+            }
+        }
+        return result;
+    }
+```
+
+
