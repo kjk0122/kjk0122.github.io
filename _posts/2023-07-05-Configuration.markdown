@@ -16,6 +16,7 @@ ApplicationContext는 @Configuration이 붙은 클래스 내부에서 @Bean이 �
 반환된 자바 객체는 스프링 컨테이너에 빈으로 등록된다.
 빈의 이름은 @Bean이 붙은 메서드 이름이 된다. (이 코드의 경우 메서드명과 같은 myBean 빈이 생성된다.)
 
+
 ```
 @Configuration
 public class Config {
