@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "오늘 한 일"
+date:   2023-07-12 14:27:00 +0900
+categories: jekyll update
+---
+
+>List 형태 메소드 작성하기(예시)
+```
+public static List<Integer> findDuplicates(int[] nums) {
+List<Integer> result = new ArrayList<>();
+Set<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            if (set.contains(num)) {
+                result.add(num);
+            } else {
+                set.add(num);
+            }
+        }
+        return result;
+    }
+```
+>잊을까봐 리마인드로 다시 쓰는 향상된 for문 예시
+
+```
+         int[] nums = {1, 2, 2, 3, 4, 4, 5}; //배열을 예시로
+for (int num : nums) {
+//(int num=0;num<nums.length;num++) 이것을 매우 짧게 줄여준다.
+}
+```
+
+``` 정규식 꼭 기억할거야~~!! ㅠㅠㅠ
+
+    public static String removeComments(String code) {
+        return code.replaceAll("//.*|/\\*(.|\\R)*?\\*/", ""); // 정규식 이용하여 주석 제거하는 메소드
+    }
+
+
+```
+
+6/27은 위의 것을 다시 보느라 제대로 한 건 없음...
+6/28,29,30 면접 관련 자료 작성 및 제출...
+
+7/3 실전 면접보고 옴 - 원인알수없이 탈락;;
+7/11 대기중...
