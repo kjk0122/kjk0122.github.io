@@ -46,3 +46,4 @@ for (int num : nums) {
 7/18 다른 쪽으로 면접 준비
 7/24 종합면접준비
 7/26 Python 기반 EST 시험 대비 준비
+여기에서 역순에 대해 Collections.reverse() 을 쓰는 것 다시 remind!
