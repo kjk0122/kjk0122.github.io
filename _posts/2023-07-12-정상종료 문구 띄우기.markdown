@@ -48,3 +48,4 @@ for (int num : nums) {
 7/26 Python 기반 EST 시험 대비 준비
 여기에서 역순에 대해 Collections.reverse() 을 쓰는 것 다시 remind!
 8/11 면접 보긴 했는데 이건 뭐...
+8/14 잔디밭 커밋 글 적어보기
