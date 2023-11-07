@@ -10,3 +10,10 @@ date:   2023-10-19 19:30:00 +0900
 
 이것을 기반으로 JVM라는 번역기에 구동시켜야함
 (JVM은 JDK에 포함되어있는 소프트웨어)
+
+SELECT m.no, m.name, m.profileImage,
+p.no, p.name, p.price
+FROM member m,
+JOIN product p
+ON m.no = p.no
+WHERE m.no = {no}
