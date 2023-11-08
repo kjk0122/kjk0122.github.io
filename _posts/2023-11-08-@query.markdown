@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "쿼리 문구"
+date:   2023-10-19 19:30:00 +0900
+---
+
+SELECT  //조회
+SELECT DISTINCT ~~ ; //다른 값만 보기
+
+SELECT *
+                        WHERE City = 'Berlin' //조건부
+
+
+
+SELECT m.no, m.name, m.profileImage,
+p.no, p.name, p.price
+FROM member m,
+JOIN product p
+ON m.no = p.no
+WHERE m.no = {no}
