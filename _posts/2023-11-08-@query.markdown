@@ -9,8 +9,11 @@ SELECT DISTINCT ~~ ; //다른 값만 보기
 
 SELECT *
                         WHERE City = 'Berlin' //조건부
+ex) SELECT * FROM [Customers] where ContactName = 'Maria Anders';
 
-
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column1, column2, ... ASC|DESC;
 
 SELECT m.no, m.name, m.profileImage,
 p.no, p.name, p.price
